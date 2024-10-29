@@ -37,10 +37,10 @@
     <assets>
         <icon>icon.png</icon>
         <fanart>fanart.gif</fanart>
-        <screenshot>resources/media/Captura1.png</screenshot>
-        <screenshot>resources/media/Captura2.png</screenshot>
-        <screenshot>resources/media/Captura3.png</screenshot>
-        <screenshot>resources/media/Captura4.png</screenshot>
+        <screenshot>Captura1.png</screenshot>
+        <screenshot>Captura2.png</screenshot>
+        <screenshot>Captura3.png</screenshot>
+        <screenshot>Captura4.png</screenshot>
     </assets>
     <forum>https://t.me/addon_palantir</forum>
   </extension>
