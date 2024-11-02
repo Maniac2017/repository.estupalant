@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.palantir3" name="[COLOR gold]Palantir 3[/COLOR]" version="3.1.3" provider-name="The Lords Of Flix">
+<addon id="plugin.video.palantir3" name="[COLOR gold]Palantir 3[/COLOR]" version="3.1.5" provider-name="The Lords Of Flix">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.inputstreamhelper" version="0.5.0"/>
@@ -20,14 +20,6 @@
           <visible>String.Contains(ListItem.FolderPath,palantir3)</visible>
         </item>
       </menu>
-  </extension>
-
-  <extension point="xbmc.addon.repository" name="Palantir 3 official Repo">
-    <dir minversion="19.0.0">
-        <info compressed="false">https://palantir.5g.in/Repo/addons.xml</info>
-        <checksum>https://palantir.5g.in/Repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://palantir.5g.in/Repo/</datadir>
-    </dir>
   </extension>
 
   <extension point="xbmc.addon.metadata">
