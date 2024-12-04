@@ -59,8 +59,8 @@
 		<forum></forum>
 		<source></source>
 		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
 			<screenshot>Amplia.png</screenshot>
 			<screenshot>Fanart.png</screenshot>
 			<screenshot>Flix Episodes.png</screenshot>
