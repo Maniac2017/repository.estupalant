@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.estuary.palantir" version="1.4.0" name="Estuary Palantir" provider-name="The Lords Of Flix">
+<addon id="skin.estuary.palantir" version="1.4.1" name="Estuary Palantir" provider-name="The Lords Of Flix">
 	<requires>
 		<!--import addon="xbmc.gui" version="5.16.0"/-->
 		<import addon="xbmc.addon" version="20.1.0"/>
